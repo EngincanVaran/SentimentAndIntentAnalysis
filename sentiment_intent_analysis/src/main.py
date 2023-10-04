@@ -4,11 +4,33 @@ import logging
 import os
 from pathlib import Path
 
-from src.utils import load_transcript
+from utils import load_transcript, load_model, write_results, decide_on_verdict
 
 
 def main(args, config):
-    data = load_transcript(args["transcript"])
+    intents = config.get("classification", "intents")
+    sentiments = config.get("classification", "sentiments")
+
+    transcript_filename = args["transcript"]
+    data = load_transcript(transcript_filename)
+    model = load_model()
+
+    logging.info("Preparing data... ")
+    sentences = [step["content"] for step in data]
+
+    logging.info("Making sentiment classifications...")
+    sentiment_results = model(sentences, sentiments)
+    sentiment_results = decide_on_verdict(sentiment_results)
+    write_results(sentiment_results, transcript_filename, "sentiment")
+
+    logging.info("Making intent classifications...")
+    intent_results = model(sentences, intents)
+    intent_results = decide_on_verdict(intent_results)
+    write_results(intent_results, transcript_filename, "intent")
+
+    logging.info("Finished with classifications...")
+
+    logging.info("Done with everything...")
 
 
 if __name__ == "__main__":
@@ -39,4 +61,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # call main
-    main(args, config)
+    main(vars(args), config)
