@@ -1,0 +1,312 @@
+[
+    {
+        "sequence": "Wow, I can't contain my excitement! I've been waiting for the iPhone 14 for so long!",
+        "labels": [
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Purchase",
+            "Information Request",
+            "Color Preference",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Gratitude"
+        ],
+        "scores": [
+            0.20483741164207458,
+            0.18980471789836884,
+            0.1548224836587906,
+            0.132281094789505,
+            0.06231895461678505,
+            0.059218600392341614,
+            0.05828641355037689,
+            0.05801766365766525,
+            0.04435066506266594,
+            0.036062028259038925
+        ],
+        "verdict": [
+            "Promotion Inquiry",
+            0.20483741164207458
+        ]
+    },
+    {
+        "sequence": "That's fantastic to hear! We're just as excited about the iPhone 14. How can I assist you in making your purchase?",
+        "labels": [
+            "Purchase",
+            "Gratitude",
+            "Promotion Inquiry",
+            "Information Request",
+            "Product Details Inquiry",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Color Preference",
+            "Service Complaint",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.2520565390586853,
+            0.19102030992507935,
+            0.13111478090286255,
+            0.11448892951011658,
+            0.09527423232793808,
+            0.08157669007778168,
+            0.045618876814842224,
+            0.03435107693076134,
+            0.032192427664995193,
+            0.02230609394609928
+        ],
+        "verdict": [
+            "Purchase",
+            0.2520565390586853
+        ]
+    },
+    {
+        "sequence": "I want all the details! Tell me about the storage options, the camera features, and the colors available.",
+        "labels": [
+            "Product Details Inquiry",
+            "Information Request",
+            "Promotion Inquiry",
+            "Color Preference",
+            "Purchase",
+            "Gratitude",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Service Complaint",
+            "Name and Contact Information"
+        ],
+        "scores": [
+            0.2925970256328583,
+            0.2825877070426941,
+            0.12032981961965561,
+            0.08034565299749374,
+            0.07421984523534775,
+            0.04822557792067528,
+            0.03541625291109085,
+            0.026940904557704926,
+            0.024755282327532768,
+            0.014581928960978985
+        ],
+        "verdict": [
+            "Product Details Inquiry",
+            0.2925970256328583
+        ]
+    },
+    {
+        "sequence": "Absolutely! The iPhone 14 offers two storage options: 128GB and 256GB. It has an amazing triple-lens camera system with Night mode, ProRAW, and ProRes video recording. And for colors, we have Silver, Midnight Green, and Rose Gold. Which details would you like to dive deeper into?",
+        "labels": [
+            "Product Details Inquiry",
+            "Information Request",
+            "Purchase",
+            "Promotion Inquiry",
+            "Color Preference",
+            "Technical Issue Report",
+            "Gratitude",
+            "Service Complaint",
+            "Shipping and Delivery",
+            "Name and Contact Information"
+        ],
+        "scores": [
+            0.24802987277507782,
+            0.17566609382629395,
+            0.13895674049854279,
+            0.1282901167869568,
+            0.10020226985216141,
+            0.060208510607481,
+            0.05305183306336403,
+            0.04750201106071472,
+            0.02832372672855854,
+            0.019768845289945602
+        ],
+        "verdict": [
+            "Product Details Inquiry",
+            0.24802987277507782
+        ]
+    },
+    {
+        "sequence": "I'm a photography enthusiast, so let's talk about the camera features. Tell me more about Night mode and ProRAW.",
+        "labels": [
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Purchase",
+            "Gratitude",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Color Preference",
+            "Technical Issue Report",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.2844862937927246,
+            0.2360571324825287,
+            0.15055234730243683,
+            0.07715531438589096,
+            0.052544623613357544,
+            0.049363188445568085,
+            0.04322785139083862,
+            0.04255013167858124,
+            0.03706376627087593,
+            0.026999318972229958
+        ],
+        "verdict": [
+            "Information Request",
+            0.2844862937927246
+        ]
+    },
+    {
+        "sequence": "Certainly! Night mode allows you to capture stunning low-light photos with enhanced detail and reduced noise. ProRAW gives you more control over your photos by saving them in a high-quality RAW format, allowing for extensive post-processing. It's a photographer's dream!",
+        "labels": [
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Purchase",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Color Preference",
+            "Service Complaint",
+            "Gratitude",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.17752936482429504,
+            0.17195095121860504,
+            0.1495593935251236,
+            0.09922171384096146,
+            0.09507767856121063,
+            0.08433164656162262,
+            0.06049725040793419,
+            0.05798863247036934,
+            0.05295442044734955,
+            0.05088889226317406
+        ],
+        "verdict": [
+            "Information Request",
+            0.17752936482429504
+        ]
+    },
+    {
+        "sequence": "That's exactly what I wanted to hear! I'll take the 256GB Midnight Green model, please. Do you offer any promotions or discounts?",
+        "labels": [
+            "Color Preference",
+            "Purchase",
+            "Information Request",
+            "Gratitude",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Name and Contact Information"
+        ],
+        "scores": [
+            0.43166741728782654,
+            0.10755732655525208,
+            0.08614246547222137,
+            0.07913323491811752,
+            0.07859868556261063,
+            0.07564719021320343,
+            0.05373544618487358,
+            0.03756805881857872,
+            0.026479298248887062,
+            0.023470818996429443
+        ],
+        "verdict": [
+            "Color Preference",
+            0.43166741728782654
+        ]
+    },
+    {
+        "sequence": "I'm glad you're excited! Currently, we have a special promotion where you'll receive a free set of AirPods Pro with your iPhone 14 purchase. How does that sound?",
+        "labels": [
+            "Purchase",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Product Details Inquiry",
+            "Information Request",
+            "Name and Contact Information",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.4553253650665283,
+            0.13183467090129852,
+            0.084400475025177,
+            0.08251486718654633,
+            0.07661569863557816,
+            0.044645823538303375,
+            0.036924175918102264,
+            0.031767893582582474,
+            0.029936185106635094,
+            0.026034792885184288
+        ],
+        "verdict": [
+            "Purchase",
+            0.4553253650665283
+        ]
+    },
+    {
+        "sequence": "That sounds amazing! I'll take that offer. How can I place my order?",
+        "labels": [
+            "Gratitude",
+            "Purchase",
+            "Promotion Inquiry",
+            "Information Request",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Product Details Inquiry",
+            "Name and Contact Information",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.18106244504451752,
+            0.17321307957172394,
+            0.1567162275314331,
+            0.10622886568307877,
+            0.07698144763708115,
+            0.07697216421365738,
+            0.07494895160198212,
+            0.06790104508399963,
+            0.04653916507959366,
+            0.039436690509319305
+        ],
+        "verdict": [
+            "Gratitude",
+            0.18106244504451752
+        ]
+    },
+    {
+        "sequence": "Great choice! I can help you place your order right away. Can you please provide your name and contact information for shipping and billing purposes?",
+        "labels": [
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Information Request",
+            "Promotion Inquiry",
+            "Purchase",
+            "Product Details Inquiry",
+            "Service Complaint",
+            "Gratitude",
+            "Technical Issue Report",
+            "Color Preference"
+        ],
+        "scores": [
+            0.7132219672203064,
+            0.08226195722818375,
+            0.06225334107875824,
+            0.03531070426106453,
+            0.03266198933124542,
+            0.019687233492732048,
+            0.01794719137251377,
+            0.014680765569210052,
+            0.011975297704339027,
+            0.009999559260904789
+        ],
+        "verdict": [
+            "Name and Contact Information",
+            0.7132219672203064
+        ]
+    }
+]

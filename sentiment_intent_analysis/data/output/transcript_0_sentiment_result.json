@@ -1,0 +1,376 @@
+[
+    {
+        "sequence": "Hello, I'm interested in buying the new iPhone 14. Can you provide me with some information?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.46392032504081726,
+            0.3345263600349426,
+            0.2015533298254013
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.46392032504081726
+        ]
+    },
+    {
+        "sequence": "Of course! The iPhone 14 is our latest model, and it comes in two versions: standard and Pro. Which one are you interested in?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6797119975090027,
+            0.22243452072143555,
+            0.09785346686840057
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6797119975090027
+        ]
+    },
+    {
+        "sequence": "I'd like to know more about both versions. What are the key differences between the standard and Pro?",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5186075568199158,
+            0.32554200291633606,
+            0.1558503955602646
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.5186075568199158
+        ]
+    },
+    {
+        "sequence": "The standard iPhone 14 has a 6.1-inch Super Retina XDR display, while the Pro version has a 6.7-inch ProMotion XDR display with a higher refresh rate. The Pro also has additional camera features and more advanced materials.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.4317464530467987,
+            0.40393009781837463,
+            0.16432346403598785
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.4317464530467987
+        ]
+    },
+    {
+        "sequence": "Interesting. What about the camera capabilities? I'm into photography.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.761826753616333,
+            0.13516584038734436,
+            0.10300733149051666
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.761826753616333
+        ]
+    },
+    {
+        "sequence": "The Pro model offers a triple-lens camera system with advanced features like Night mode, ProRAW, and ProRes video recording. The standard version has a dual-lens camera but still delivers excellent photo quality.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7843012809753418,
+            0.16283079981803894,
+            0.052867911756038666
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7843012809753418
+        ]
+    },
+    {
+        "sequence": "Sounds good! Can you tell me about the storage options available for both models?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.875359058380127,
+            0.09756745398044586,
+            0.027073470875620842
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.875359058380127
+        ]
+    },
+    {
+        "sequence": "Certainly. The iPhone 14 standard comes in 128GB and 256GB storage options, while the Pro model offers 256GB and 512GB variants. It's worth considering your storage needs.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7860382199287415,
+            0.15096604824066162,
+            0.06299576163291931
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7860382199287415
+        ]
+    },
+    {
+        "sequence": "I think I'd go for the standard version with 256GB. How much does it cost?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6517511010169983,
+            0.2294474095106125,
+            0.1188015416264534
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6517511010169983
+        ]
+    },
+    {
+        "sequence": "The 256GB standard iPhone 14 is priced at $999. Do you have any specific color preferences?",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.6112046241760254,
+            0.2265787273645401,
+            0.16221663355827332
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6112046241760254
+        ]
+    },
+    {
+        "sequence": "I like the Graphite color. Do you have any ongoing promotions or trade-in options?",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.8390361070632935,
+            0.08338522911071777,
+            0.07757867127656937
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.8390361070632935
+        ]
+    },
+    {
+        "sequence": "We have a trade-in program where you can get a discount for your old device. I can check its value if you provide me with the details. Additionally, we have financing options available for your purchase.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.588617742061615,
+            0.28910213708877563,
+            0.12228016555309296
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.588617742061615
+        ]
+    },
+    {
+        "sequence": "That's great! I have an iPhone 12 Pro. Can you tell me its trade-in value?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9721351861953735,
+            0.02128027379512787,
+            0.006584582384675741
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9721351861953735
+        ]
+    },
+    {
+        "sequence": "Sure, let me check that for you. Please give me a moment.",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.36784544587135315,
+            0.3398897647857666,
+            0.292264848947525
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.36784544587135315
+        ]
+    },
+    {
+        "sequence": "Take your time.",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.37746211886405945,
+            0.3226679563522339,
+            0.29986995458602905
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.37746211886405945
+        ]
+    },
+    {
+        "sequence": "Thank you for waiting. Your iPhone 12 Pro qualifies for a $300 trade-in value towards the purchase of the iPhone 14.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6594877243041992,
+            0.20686107873916626,
+            0.13365119695663452
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6594877243041992
+        ]
+    },
+    {
+        "sequence": "That's good to know. I'd like to proceed with the purchase. Can you help me with the financing options?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7181976437568665,
+            0.20195044577121735,
+            0.07985185086727142
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7181976437568665
+        ]
+    },
+    {
+        "sequence": "Certainly! We offer both monthly installment plans and 0% interest financing. Which one would you prefer?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.8116229176521301,
+            0.12640316784381866,
+            0.06197391822934151
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.8116229176521301
+        ]
+    },
+    {
+        "sequence": "I prefer the 0% interest financing. How does that work?",
+        "labels": [
+            "NEUTRAL",
+            "NEGATIVE",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.36770978569984436,
+            0.3338000774383545,
+            0.29849013686180115
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.36770978569984436
+        ]
+    },
+    {
+        "sequence": "With 0% interest financing, you can spread the cost of the iPhone 14 over 12 months without paying any interest. I can assist you in filling out the application.",
+        "labels": [
+            "NEGATIVE",
+            "NEUTRAL",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.43542084097862244,
+            0.2850206196308136,
+            0.2795584499835968
+        ],
+        "verdict": [
+            "NEGATIVE",
+            0.43542084097862244
+        ]
+    },
+    {
+        "sequence": "Sounds good. Let's go ahead with the 0% interest financing.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6359074115753174,
+            0.23342478275299072,
+            0.13066773116588593
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6359074115753174
+        ]
+    },
+    {
+        "sequence": "Great choice! Let's start the application process. Can I have your name and contact information, please?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.947731614112854,
+            0.039296671748161316,
+            0.012971694581210613
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.947731614112854
+        ]
+    }
+]

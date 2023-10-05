@@ -1,0 +1,172 @@
+[
+    {
+        "sequence": "Wow, I can't contain my excitement! I've been waiting for the iPhone 14 for so long!",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7845832705497742,
+            0.14878705143928528,
+            0.06662969291210175
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7845832705497742
+        ]
+    },
+    {
+        "sequence": "That's fantastic to hear! We're just as excited about the iPhone 14. How can I assist you in making your purchase?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9360339045524597,
+            0.05068104341626167,
+            0.013285073451697826
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9360339045524597
+        ]
+    },
+    {
+        "sequence": "I want all the details! Tell me about the storage options, the camera features, and the colors available.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6434547305107117,
+            0.23199328780174255,
+            0.12455194443464279
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6434547305107117
+        ]
+    },
+    {
+        "sequence": "Absolutely! The iPhone 14 offers two storage options: 128GB and 256GB. It has an amazing triple-lens camera system with Night mode, ProRAW, and ProRes video recording. And for colors, we have Silver, Midnight Green, and Rose Gold. Which details would you like to dive deeper into?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9221436381340027,
+            0.04641091823577881,
+            0.03144541755318642
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9221436381340027
+        ]
+    },
+    {
+        "sequence": "I'm a photography enthusiast, so let's talk about the camera features. Tell me more about Night mode and ProRAW.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5407131910324097,
+            0.328787237405777,
+            0.13049963116645813
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5407131910324097
+        ]
+    },
+    {
+        "sequence": "Certainly! Night mode allows you to capture stunning low-light photos with enhanced detail and reduced noise. ProRAW gives you more control over your photos by saving them in a high-quality RAW format, allowing for extensive post-processing. It's a photographer's dream!",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9422752857208252,
+            0.0389823280274868,
+            0.01874244585633278
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9422752857208252
+        ]
+    },
+    {
+        "sequence": "That's exactly what I wanted to hear! I'll take the 256GB Midnight Green model, please. Do you offer any promotions or discounts?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9620216488838196,
+            0.028871145099401474,
+            0.009107247926294804
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9620216488838196
+        ]
+    },
+    {
+        "sequence": "I'm glad you're excited! Currently, we have a special promotion where you'll receive a free set of AirPods Pro with your iPhone 14 purchase. How does that sound?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9046430587768555,
+            0.06943247467279434,
+            0.025924447923898697
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9046430587768555
+        ]
+    },
+    {
+        "sequence": "That sounds amazing! I'll take that offer. How can I place my order?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9513105750083923,
+            0.03818046301603317,
+            0.010508988052606583
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9513105750083923
+        ]
+    },
+    {
+        "sequence": "Great choice! I can help you place your order right away. Can you please provide your name and contact information for shipping and billing purposes?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.960952877998352,
+            0.030571702867746353,
+            0.008475501090288162
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.960952877998352
+        ]
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "sequence": "I can't believe how you're handling this! I've been waiting for ages to buy the iPhone 14, and your service is terrible!",
+        "labels": [
+            "Service Complaint",
+            "Purchase",
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Information Request",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Color Preference",
+            "Gratitude"
+        ],
+        "scores": [
+            0.3128262162208557,
+            0.19830353558063507,
+            0.10024316608905792,
+            0.0925416350364685,
+            0.08240389823913574,
+            0.069918192923069,
+            0.061578381806612015,
+            0.037190284579992294,
+            0.03671380132436752,
+            0.00828093197196722
+        ],
+        "verdict": [
+            "Service Complaint",
+            0.3128262162208557
+        ]
+    },
+    {
+        "sequence": "I'm really sorry to hear that you're not satisfied with our service. Let's try to address your concerns. What specifically has been frustrating for you?",
+        "labels": [
+            "Service Complaint",
+            "Purchase",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Promotion Inquiry",
+            "Information Request",
+            "Gratitude",
+            "Shipping and Delivery",
+            "Product Details Inquiry",
+            "Color Preference"
+        ],
+        "scores": [
+            0.2992066442966461,
+            0.11389003694057465,
+            0.09867409616708755,
+            0.09362960606813431,
+            0.08763151615858078,
+            0.08134835958480835,
+            0.06550168246030807,
+            0.06545347720384598,
+            0.0534636452794075,
+            0.04120088368654251
+        ],
+        "verdict": [
+            "Service Complaint",
+            0.2992066442966461
+        ]
+    },
+    {
+        "sequence": "Your website crashed when I was trying to place an order, and your support line kept me on hold for over an hour!",
+        "labels": [
+            "Service Complaint",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Purchase",
+            "Promotion Inquiry",
+            "Information Request",
+            "Product Details Inquiry",
+            "Shipping and Delivery",
+            "Color Preference",
+            "Gratitude"
+        ],
+        "scores": [
+            0.48759374022483826,
+            0.20255854725837708,
+            0.08830531686544418,
+            0.059075064957141876,
+            0.04780760779976845,
+            0.04606141522526741,
+            0.027674872428178787,
+            0.019223885610699654,
+            0.013807224109768867,
+            0.007892315275967121
+        ],
+        "verdict": [
+            "Service Complaint",
+            0.48759374022483826
+        ]
+    },
+    {
+        "sequence": "I apologize for the technical issues you faced with our website, and I understand how frustrating long wait times can be. We're working to resolve these issues. Can I assist you with your iPhone 14 purchase now?",
+        "labels": [
+            "Technical Issue Report",
+            "Service Complaint",
+            "Purchase",
+            "Promotion Inquiry",
+            "Information Request",
+            "Product Details Inquiry",
+            "Name and Contact Information",
+            "Gratitude",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.19804874062538147,
+            0.18460892140865326,
+            0.16158628463745117,
+            0.10365156084299088,
+            0.09639881551265717,
+            0.08486820757389069,
+            0.06427611410617828,
+            0.055042561143636703,
+            0.031868498772382736,
+            0.01965034008026123
+        ],
+        "verdict": [
+            "Technical Issue Report",
+            0.19804874062538147
+        ]
+    },
+    {
+        "sequence": "Fine, I still want the iPhone 14, but you better give me a discount for all this inconvenience!",
+        "labels": [
+            "Service Complaint",
+            "Purchase",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Information Request",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Color Preference",
+            "Gratitude",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.22252513468265533,
+            0.1933714598417282,
+            0.13515141606330872,
+            0.1341841071844101,
+            0.13215042650699615,
+            0.06487627327442169,
+            0.04063643515110016,
+            0.035511087626218796,
+            0.023592999204993248,
+            0.018000584095716476
+        ],
+        "verdict": [
+            "Service Complaint",
+            0.22252513468265533
+        ]
+    },
+    {
+        "sequence": "I completely understand your frustration, and I'm sorry for the inconvenience. We can offer you a 10% discount on your iPhone 14 purchase as a goodwill gesture. Is that acceptable to you?",
+        "labels": [
+            "Purchase",
+            "Service Complaint",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Information Request",
+            "Gratitude",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Color Preference"
+        ],
+        "scores": [
+            0.29523175954818726,
+            0.15294066071510315,
+            0.11377252638339996,
+            0.09628702700138092,
+            0.08951184898614883,
+            0.07731447368860245,
+            0.06777090579271317,
+            0.0519721545279026,
+            0.028396669775247574,
+            0.026801936328411102
+        ],
+        "verdict": [
+            "Purchase",
+            0.29523175954818726
+        ]
+    },
+    {
+        "sequence": "It's about time! Yes, I'll take the discount. Can you tell me about the available storage options?",
+        "labels": [
+            "Purchase",
+            "Promotion Inquiry",
+            "Information Request",
+            "Product Details Inquiry",
+            "Gratitude",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Color Preference"
+        ],
+        "scores": [
+            0.2206270694732666,
+            0.17311717569828033,
+            0.15114085376262665,
+            0.14300031960010529,
+            0.0804833248257637,
+            0.07279844582080841,
+            0.05521378293633461,
+            0.039710525423288345,
+            0.03218493610620499,
+            0.03172348812222481
+        ],
+        "verdict": [
+            "Purchase",
+            0.2206270694732666
+        ]
+    },
+    {
+        "sequence": "Certainly! The iPhone 14 comes in two storage options: 128GB and 256GB. Which one would you like?",
+        "labels": [
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Information Request",
+            "Purchase",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Gratitude",
+            "Color Preference"
+        ],
+        "scores": [
+            0.25127947330474854,
+            0.18019667267799377,
+            0.17099054157733917,
+            0.1338915079832077,
+            0.06577475368976593,
+            0.04823419079184532,
+            0.041016705334186554,
+            0.0394853800535202,
+            0.039207540452480316,
+            0.02992320992052555
+        ],
+        "verdict": [
+            "Product Details Inquiry",
+            0.25127947330474854
+        ]
+    },
+    {
+        "sequence": "I'll take the 256GB model. What colors do you have?",
+        "labels": [
+            "Purchase",
+            "Information Request",
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Color Preference",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Gratitude",
+            "Name and Contact Information"
+        ],
+        "scores": [
+            0.22037459909915924,
+            0.17981772124767303,
+            0.1714484840631485,
+            0.1351795494556427,
+            0.10125106573104858,
+            0.05728181451559067,
+            0.04269507899880409,
+            0.036984883248806,
+            0.029222412034869194,
+            0.025744440034031868
+        ],
+        "verdict": [
+            "Purchase",
+            0.22037459909915924
+        ]
+    },
+    {
+        "sequence": "We have Silver, Midnight Green, and Rose Gold. Which color suits your preference?",
+        "labels": [
+            "Color Preference",
+            "Product Details Inquiry",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Gratitude",
+            "Service Complaint"
+        ],
+        "scores": [
+            0.38742154836654663,
+            0.15398575365543365,
+            0.1260528862476349,
+            0.10051355510950089,
+            0.09258006513118744,
+            0.03211011737585068,
+            0.03162260726094246,
+            0.03053196892142296,
+            0.023850340396165848,
+            0.02133117988705635
+        ],
+        "verdict": [
+            "Color Preference",
+            0.38742154836654663
+        ]
+    },
+    {
+        "sequence": "I guess Midnight Green is fine. Now, let's finish this quickly.",
+        "labels": [
+            "Color Preference",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Gratitude"
+        ],
+        "scores": [
+            0.3998718857765198,
+            0.09319394826889038,
+            0.08246233314275742,
+            0.08205930143594742,
+            0.07676620036363602,
+            0.070132777094841,
+            0.058386556804180145,
+            0.049817752093076706,
+            0.04447272792458534,
+            0.04283655807375908
+        ],
+        "verdict": [
+            "Color Preference",
+            0.3998718857765198
+        ]
+    },
+    {
+        "sequence": "Of course, I'll process your order promptly. Can you please provide your name and contact information for shipping and billing?",
+        "labels": [
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Information Request",
+            "Service Complaint",
+            "Purchase",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Product Details Inquiry",
+            "Technical Issue Report",
+            "Color Preference"
+        ],
+        "scores": [
+            0.6601865291595459,
+            0.12018994241952896,
+            0.08496670424938202,
+            0.028327198699116707,
+            0.026853730902075768,
+            0.026058081537485123,
+            0.016333233565092087,
+            0.015701787546277046,
+            0.014136684127151966,
+            0.00724614504724741
+        ],
+        "verdict": [
+            "Name and Contact Information",
+            0.6601865291595459
+        ]
+    },
+    {
+        "sequence": "Finally, something is going right. My name is John Smith, and my contact number is 555-555-5555.",
+        "labels": [
+            "Name and Contact Information",
+            "Information Request",
+            "Gratitude",
+            "Purchase",
+            "Technical Issue Report",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Shipping and Delivery",
+            "Product Details Inquiry",
+            "Color Preference"
+        ],
+        "scores": [
+            0.911184549331665,
+            0.020671162754297256,
+            0.018515821546316147,
+            0.009708118624985218,
+            0.009645083919167519,
+            0.007816608063876629,
+            0.007143836468458176,
+            0.005955364089459181,
+            0.004794618114829063,
+            0.004564821254462004
+        ],
+        "verdict": [
+            "Name and Contact Information",
+            0.911184549331665
+        ]
+    },
+    {
+        "sequence": "Thank you, John. We'll make sure your iPhone 14 is on its way without any further delays. Do you have any specific shipping instructions?",
+        "labels": [
+            "Gratitude",
+            "Shipping and Delivery",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Product Details Inquiry",
+            "Information Request",
+            "Purchase",
+            "Technical Issue Report",
+            "Color Preference"
+        ],
+        "scores": [
+            0.3673363924026489,
+            0.1808777004480362,
+            0.0760483667254448,
+            0.07354528456926346,
+            0.0711764544248581,
+            0.0705961361527443,
+            0.05922911688685417,
+            0.053809355944395065,
+            0.030131567269563675,
+            0.01724962331354618
+        ],
+        "verdict": [
+            "Gratitude",
+            0.3673363924026489
+        ]
+    },
+    {
+        "sequence": "No, just get it to me as soon as possible. I can't wait to get my hands on it!",
+        "labels": [
+            "Shipping and Delivery",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Gratitude",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Color Preference"
+        ],
+        "scores": [
+            0.16495464742183685,
+            0.15589626133441925,
+            0.15479689836502075,
+            0.1201842650771141,
+            0.10684864223003387,
+            0.07278496772050858,
+            0.06942786276340485,
+            0.060756705701351166,
+            0.050426192581653595,
+            0.04392360523343086
+        ],
+        "verdict": [
+            "Shipping and Delivery",
+            0.16495464742183685
+        ]
+    },
+    {
+        "sequence": "Understood, John. We'll expedite the delivery. You'll receive a confirmation email shortly. If you have any more questions or concerns, please don't hesitate to reach out.",
+        "labels": [
+            "Shipping and Delivery",
+            "Name and Contact Information",
+            "Service Complaint",
+            "Gratitude",
+            "Purchase",
+            "Promotion Inquiry",
+            "Information Request",
+            "Technical Issue Report",
+            "Color Preference",
+            "Product Details Inquiry"
+        ],
+        "scores": [
+            0.3394518792629242,
+            0.14076946675777435,
+            0.08539988100528717,
+            0.08143850415945053,
+            0.07881699502468109,
+            0.07836197316646576,
+            0.07133599370718002,
+            0.0518542118370533,
+            0.04102500155568123,
+            0.03154601901769638
+        ],
+        "verdict": [
+            "Shipping and Delivery",
+            0.3394518792629242
+        ]
+    },
+    {
+        "sequence": "You better get it right this time! I'm counting on you!",
+        "labels": [
+            "Purchase",
+            "Information Request",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Shipping and Delivery",
+            "Name and Contact Information",
+            "Product Details Inquiry",
+            "Color Preference"
+        ],
+        "scores": [
+            0.16194328665733337,
+            0.1563034951686859,
+            0.11884908378124237,
+            0.11304336786270142,
+            0.08559813350439072,
+            0.08441352844238281,
+            0.08328378200531006,
+            0.0820431113243103,
+            0.0685882419347763,
+            0.04593397304415703
+        ],
+        "verdict": [
+            "Purchase",
+            0.16194328665733337
+        ]
+    },
+    {
+        "sequence": "We'll do our best, John. Thank you for your patience and for choosing our products. Have a great day!",
+        "labels": [
+            "Gratitude",
+            "Product Details Inquiry",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Name and Contact Information",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.3563137650489807,
+            0.10748074948787689,
+            0.0969621017575264,
+            0.09092221409082413,
+            0.08345422148704529,
+            0.07656356692314148,
+            0.06787591427564621,
+            0.051815785467624664,
+            0.03491676226258278,
+            0.03369487449526787
+        ],
+        "verdict": [
+            "Gratitude",
+            0.3563137650489807
+        ]
+    }
+]

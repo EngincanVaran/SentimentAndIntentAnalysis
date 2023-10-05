@@ -1,0 +1,560 @@
+[
+    {
+        "sequence": "Hi there, I'm interested in purchasing the iPhone 14. Can you provide me with some details?",
+        "labels": [
+            "Product Details Inquiry",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Color Preference"
+        ],
+        "scores": [
+            0.2808530330657959,
+            0.26614123582839966,
+            0.1817941963672638,
+            0.13762566447257996,
+            0.03934376314282417,
+            0.026715105399489403,
+            0.020290065556764603,
+            0.019847871735692024,
+            0.014288902282714844,
+            0.013100077398121357
+        ],
+        "verdict": [
+            "Product Details Inquiry",
+            0.2808530330657959
+        ]
+    },
+    {
+        "sequence": "Of course! The iPhone 14 is our latest flagship model. What specific information are you looking for?",
+        "labels": [
+            "Information Request",
+            "Purchase",
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Name and Contact Information",
+            "Service Complaint",
+            "Color Preference"
+        ],
+        "scores": [
+            0.349886417388916,
+            0.20152787864208221,
+            0.18546363711357117,
+            0.11719303578138351,
+            0.04100177437067032,
+            0.02338031493127346,
+            0.022504646331071854,
+            0.02124735154211521,
+            0.020210929214954376,
+            0.017584053799510002
+        ],
+        "verdict": [
+            "Information Request",
+            0.349886417388916
+        ]
+    },
+    {
+        "sequence": "I'd like to know about the different storage options available and their prices.",
+        "labels": [
+            "Information Request",
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Purchase",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Gratitude",
+            "Color Preference",
+            "Name and Contact Information",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.37922123074531555,
+            0.26253002882003784,
+            0.1293538361787796,
+            0.0484597347676754,
+            0.04780764877796173,
+            0.04215742275118828,
+            0.03827789053320885,
+            0.023255128413438797,
+            0.017573827877640724,
+            0.011363225057721138
+        ],
+        "verdict": [
+            "Information Request",
+            0.37922123074531555
+        ]
+    },
+    {
+        "sequence": "Certainly. The iPhone 14 comes in 128GB and 256GB variants. The 128GB model is priced at $899, while the 256GB model is priced at $999.",
+        "labels": [
+            "Purchase",
+            "Product Details Inquiry",
+            "Information Request",
+            "Name and Contact Information",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Gratitude",
+            "Shipping and Delivery",
+            "Color Preference",
+            "Technical Issue Report"
+        ],
+        "scores": [
+            0.16725364327430725,
+            0.1616543084383011,
+            0.1390424519777298,
+            0.10497930645942688,
+            0.0836113765835762,
+            0.07719437777996063,
+            0.0750192180275917,
+            0.0722980871796608,
+            0.0688106045126915,
+            0.05013667792081833
+        ],
+        "verdict": [
+            "Purchase",
+            0.16725364327430725
+        ]
+    },
+    {
+        "sequence": "That helps. How about the color choices?",
+        "labels": [
+            "Color Preference",
+            "Product Details Inquiry",
+            "Information Request",
+            "Purchase",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Gratitude",
+            "Shipping and Delivery",
+            "Name and Contact Information"
+        ],
+        "scores": [
+            0.17040202021598816,
+            0.1473105251789093,
+            0.133986234664917,
+            0.11291052401065826,
+            0.10179980844259262,
+            0.09958910197019577,
+            0.07963795214891434,
+            0.05998348444700241,
+            0.055626802146434784,
+            0.03875354304909706
+        ],
+        "verdict": [
+            "Color Preference",
+            0.17040202021598816
+        ]
+    },
+    {
+        "sequence": "We offer the iPhone 14 in three colors: Silver, Midnight Green, and Rose Gold. Which one appeals to you the most?",
+        "labels": [
+            "Product Details Inquiry",
+            "Color Preference",
+            "Promotion Inquiry",
+            "Information Request",
+            "Purchase",
+            "Name and Contact Information",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Gratitude"
+        ],
+        "scores": [
+            0.22295604646205902,
+            0.20657046139240265,
+            0.1499640941619873,
+            0.126028910279274,
+            0.11108844727277756,
+            0.0467231348156929,
+            0.04106098785996437,
+            0.037185654044151306,
+            0.035272154957056046,
+            0.023150159046053886
+        ],
+        "verdict": [
+            "Product Details Inquiry",
+            0.22295604646205902
+        ]
+    },
+    {
+        "sequence": "I think I'll go with Midnight Green. Are there any promotions or discounts available?",
+        "labels": [
+            "Color Preference",
+            "Promotion Inquiry",
+            "Purchase",
+            "Information Request",
+            "Product Details Inquiry",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Gratitude",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.441454142332077,
+            0.14613445103168488,
+            0.09111230075359344,
+            0.08565779030323029,
+            0.07608381658792496,
+            0.04318639636039734,
+            0.03614193946123123,
+            0.03135061636567116,
+            0.030303316190838814,
+            0.018575239926576614
+        ],
+        "verdict": [
+            "Color Preference",
+            0.441454142332077
+        ]
+    },
+    {
+        "sequence": "Currently, we have a trade-in promotion where you can get up to $300 off when you trade in your old device. Additionally, we offer a 10% discount for students.",
+        "labels": [
+            "Promotion Inquiry",
+            "Purchase",
+            "Product Details Inquiry",
+            "Gratitude",
+            "Name and Contact Information",
+            "Information Request",
+            "Service Complaint",
+            "Color Preference",
+            "Technical Issue Report",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.17911361157894135,
+            0.17043693363666534,
+            0.12284531444311142,
+            0.098552405834198,
+            0.08791857212781906,
+            0.08638249337673187,
+            0.08032549172639847,
+            0.07242680341005325,
+            0.061222683638334274,
+            0.040775708854198456
+        ],
+        "verdict": [
+            "Promotion Inquiry",
+            0.17911361157894135
+        ]
+    },
+    {
+        "sequence": "That's great! I have an old iPhone 11. Can you tell me its trade-in value?",
+        "labels": [
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Gratitude",
+            "Purchase",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.3163876235485077,
+            0.17161335051059723,
+            0.16562475264072418,
+            0.10468433052301407,
+            0.08881036192178726,
+            0.044777944684028625,
+            0.03198952600359917,
+            0.029732564464211464,
+            0.026399830356240273,
+            0.019979707896709442
+        ],
+        "verdict": [
+            "Information Request",
+            0.3163876235485077
+        ]
+    },
+    {
+        "sequence": "Sure, let me check that for you. Please provide me with the details of your iPhone 11.",
+        "labels": [
+            "Information Request",
+            "Product Details Inquiry",
+            "Purchase",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Gratitude",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Color Preference"
+        ],
+        "scores": [
+            0.3376895785331726,
+            0.3189471662044525,
+            0.07962161302566528,
+            0.07415857166051865,
+            0.04580535367131233,
+            0.04186345264315605,
+            0.03754045441746712,
+            0.024662546813488007,
+            0.02428256720304489,
+            0.015428629703819752
+        ],
+        "verdict": [
+            "Information Request",
+            0.3376895785331726
+        ]
+    },
+    {
+        "sequence": "It's the 128GB model in Silver, and it's in good condition.",
+        "labels": [
+            "Color Preference",
+            "Product Details Inquiry",
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Name and Contact Information",
+            "Shipping and Delivery",
+            "Service Complaint",
+            "Technical Issue Report"
+        ],
+        "scores": [
+            0.5150740146636963,
+            0.13991793990135193,
+            0.07669778913259506,
+            0.06325766444206238,
+            0.05657992511987686,
+            0.04637143015861511,
+            0.03818851336836815,
+            0.024864904582500458,
+            0.022654445841908455,
+            0.016393374651670456
+        ],
+        "verdict": [
+            "Color Preference",
+            0.5150740146636963
+        ]
+    },
+    {
+        "sequence": "Thank you for the information. Your iPhone 11 qualifies for a $200 trade-in value.",
+        "labels": [
+            "Gratitude",
+            "Product Details Inquiry",
+            "Information Request",
+            "Promotion Inquiry",
+            "Purchase",
+            "Service Complaint",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.512618899345398,
+            0.13785278797149658,
+            0.1035894900560379,
+            0.08219361305236816,
+            0.045156970620155334,
+            0.040101874619722366,
+            0.027710581198334694,
+            0.02232104353606701,
+            0.014755303971469402,
+            0.013699423521757126
+        ],
+        "verdict": [
+            "Gratitude",
+            0.512618899345398
+        ]
+    },
+    {
+        "sequence": "That's fair. I'd like to proceed with the purchase. Do you offer any financing options?",
+        "labels": [
+            "Purchase",
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Service Complaint",
+            "Gratitude",
+            "Technical Issue Report",
+            "Name and Contact Information",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.5247520208358765,
+            0.10746705532073975,
+            0.10083038359880447,
+            0.053951773792505264,
+            0.049780502915382385,
+            0.048676516860723495,
+            0.042621370404958725,
+            0.031879764050245285,
+            0.023469258099794388,
+            0.0165712907910347
+        ],
+        "verdict": [
+            "Purchase",
+            0.5247520208358765
+        ]
+    },
+    {
+        "sequence": "Certainly! We have both installment plans and 0% interest financing available. Which one would you prefer?",
+        "labels": [
+            "Promotion Inquiry",
+            "Information Request",
+            "Product Details Inquiry",
+            "Purchase",
+            "Gratitude",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Shipping and Delivery",
+            "Color Preference"
+        ],
+        "scores": [
+            0.1973973512649536,
+            0.1747780591249466,
+            0.17147031426429749,
+            0.12366767972707748,
+            0.07606478780508041,
+            0.06842971593141556,
+            0.06320778280496597,
+            0.05601908639073372,
+            0.03514619916677475,
+            0.033819105476140976
+        ],
+        "verdict": [
+            "Promotion Inquiry",
+            0.1973973512649536
+        ]
+    },
+    {
+        "sequence": "I'm interested in the 0% interest financing. How long are the financing terms?",
+        "labels": [
+            "Information Request",
+            "Promotion Inquiry",
+            "Product Details Inquiry",
+            "Technical Issue Report",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Gratitude",
+            "Color Preference",
+            "Purchase",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.364441841840744,
+            0.14866116642951965,
+            0.12194813042879105,
+            0.06962218135595322,
+            0.06192358583211899,
+            0.06001132354140282,
+            0.05811639130115509,
+            0.046021342277526855,
+            0.039926595985889435,
+            0.029327392578125
+        ],
+        "verdict": [
+            "Information Request",
+            0.364441841840744
+        ]
+    },
+    {
+        "sequence": "The 0% interest financing is available for 12 or 24 months. Which term would you prefer?",
+        "labels": [
+            "Information Request",
+            "Product Details Inquiry",
+            "Promotion Inquiry",
+            "Service Complaint",
+            "Name and Contact Information",
+            "Technical Issue Report",
+            "Gratitude",
+            "Purchase",
+            "Color Preference",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.24767306447029114,
+            0.1572035253047943,
+            0.11602963507175446,
+            0.09408370405435562,
+            0.07583434134721756,
+            0.07244587689638138,
+            0.07045654207468033,
+            0.061241358518600464,
+            0.06035903841257095,
+            0.044672951102256775
+        ],
+        "verdict": [
+            "Information Request",
+            0.24767306447029114
+        ]
+    },
+    {
+        "sequence": "I'll go with the 12-month financing term, please.",
+        "labels": [
+            "Information Request",
+            "Purchase",
+            "Product Details Inquiry",
+            "Service Complaint",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Name and Contact Information",
+            "Color Preference",
+            "Technical Issue Report",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.1879538893699646,
+            0.16406263411045074,
+            0.09993326663970947,
+            0.09304763376712799,
+            0.08819454163312912,
+            0.08612728118896484,
+            0.08500216901302338,
+            0.07623326778411865,
+            0.06796581298112869,
+            0.05147944763302803
+        ],
+        "verdict": [
+            "Information Request",
+            0.1879538893699646
+        ]
+    },
+    {
+        "sequence": "Great choice! Let's get started with the financing application. Can I have your name and contact information, please?",
+        "labels": [
+            "Name and Contact Information",
+            "Information Request",
+            "Purchase",
+            "Promotion Inquiry",
+            "Gratitude",
+            "Product Details Inquiry",
+            "Technical Issue Report",
+            "Color Preference",
+            "Service Complaint",
+            "Shipping and Delivery"
+        ],
+        "scores": [
+            0.8183708190917969,
+            0.05827755108475685,
+            0.030346384271979332,
+            0.024372052401304245,
+            0.021509487181901932,
+            0.015865333378314972,
+            0.012235404923558235,
+            0.0070433830842375755,
+            0.006109734997153282,
+            0.005869824904948473
+        ],
+        "verdict": [
+            "Name and Contact Information",
+            0.8183708190917969
+        ]
+    }
+]

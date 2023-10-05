@@ -1,0 +1,308 @@
+[
+    {
+        "sequence": "Hi there, I'm interested in purchasing the iPhone 14. Can you provide me with some details?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5059735178947449,
+            0.30665406584739685,
+            0.18737247586250305
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5059735178947449
+        ]
+    },
+    {
+        "sequence": "Of course! The iPhone 14 is our latest flagship model. What specific information are you looking for?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6597909331321716,
+            0.22587908804416656,
+            0.11432991921901703
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6597909331321716
+        ]
+    },
+    {
+        "sequence": "I'd like to know about the different storage options available and their prices.",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.3901841938495636,
+            0.36418843269348145,
+            0.24562735855579376
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.3901841938495636
+        ]
+    },
+    {
+        "sequence": "Certainly. The iPhone 14 comes in 128GB and 256GB variants. The 128GB model is priced at $899, while the 256GB model is priced at $999.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7854771614074707,
+            0.15821605920791626,
+            0.056306805461645126
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7854771614074707
+        ]
+    },
+    {
+        "sequence": "That helps. How about the color choices?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7412860989570618,
+            0.16727781295776367,
+            0.09143612533807755
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7412860989570618
+        ]
+    },
+    {
+        "sequence": "We offer the iPhone 14 in three colors: Silver, Midnight Green, and Rose Gold. Which one appeals to you the most?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5838261246681213,
+            0.2720021605491638,
+            0.14417171478271484
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5838261246681213
+        ]
+    },
+    {
+        "sequence": "I think I'll go with Midnight Green. Are there any promotions or discounts available?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7010071873664856,
+            0.18435627222061157,
+            0.11463651061058044
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7010071873664856
+        ]
+    },
+    {
+        "sequence": "Currently, we have a trade-in promotion where you can get up to $300 off when you trade in your old device. Additionally, we offer a 10% discount for students.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6326258778572083,
+            0.2115987241268158,
+            0.15577541291713715
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6326258778572083
+        ]
+    },
+    {
+        "sequence": "That's great! I have an old iPhone 11. Can you tell me its trade-in value?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9636259078979492,
+            0.027319172397255898,
+            0.009054875001311302
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9636259078979492
+        ]
+    },
+    {
+        "sequence": "Sure, let me check that for you. Please provide me with the details of your iPhone 11.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5428299307823181,
+            0.35238465666770935,
+            0.10478545725345612
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5428299307823181
+        ]
+    },
+    {
+        "sequence": "It's the 128GB model in Silver, and it's in good condition.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9290569424629211,
+            0.043932780623435974,
+            0.027010256424546242
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9290569424629211
+        ]
+    },
+    {
+        "sequence": "Thank you for the information. Your iPhone 11 qualifies for a $200 trade-in value.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6535977125167847,
+            0.19869564473628998,
+            0.14770668745040894
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6535977125167847
+        ]
+    },
+    {
+        "sequence": "That's fair. I'd like to proceed with the purchase. Do you offer any financing options?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.7171652913093567,
+            0.2162286788225174,
+            0.06660597771406174
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.7171652913093567
+        ]
+    },
+    {
+        "sequence": "Certainly! We have both installment plans and 0% interest financing available. Which one would you prefer?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.8432015776634216,
+            0.10582572221755981,
+            0.050972696393728256
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.8432015776634216
+        ]
+    },
+    {
+        "sequence": "I'm interested in the 0% interest financing. How long are the financing terms?",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.42121073603630066,
+            0.30893146991729736,
+            0.26985785365104675
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.42121073603630066
+        ]
+    },
+    {
+        "sequence": "The 0% interest financing is available for 12 or 24 months. Which term would you prefer?",
+        "labels": [
+            "NEUTRAL",
+            "NEGATIVE",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.4116303622722626,
+            0.31240659952163696,
+            0.27596306800842285
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.4116303622722626
+        ]
+    },
+    {
+        "sequence": "I'll go with the 12-month financing term, please.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5170647501945496,
+            0.27625489234924316,
+            0.20668034255504608
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5170647501945496
+        ]
+    },
+    {
+        "sequence": "Great choice! Let's get started with the financing application. Can I have your name and contact information, please?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9333312511444092,
+            0.04974264279007912,
+            0.016926134005188942
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9333312511444092
+        ]
+    }
+]

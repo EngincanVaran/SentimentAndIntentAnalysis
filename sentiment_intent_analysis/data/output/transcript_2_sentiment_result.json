@@ -1,0 +1,308 @@
+[
+    {
+        "sequence": "I can't believe how you're handling this! I've been waiting for ages to buy the iPhone 14, and your service is terrible!",
+        "labels": [
+            "NEGATIVE",
+            "NEUTRAL",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.5211954712867737,
+            0.38778814673423767,
+            0.09101637452840805
+        ],
+        "verdict": [
+            "NEGATIVE",
+            0.5211954712867737
+        ]
+    },
+    {
+        "sequence": "I'm really sorry to hear that you're not satisfied with our service. Let's try to address your concerns. What specifically has been frustrating for you?",
+        "labels": [
+            "NEGATIVE",
+            "NEUTRAL",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.41304171085357666,
+            0.33028483390808105,
+            0.2566733956336975
+        ],
+        "verdict": [
+            "NEGATIVE",
+            0.41304171085357666
+        ]
+    },
+    {
+        "sequence": "Your website crashed when I was trying to place an order, and your support line kept me on hold for over an hour!",
+        "labels": [
+            "NEGATIVE",
+            "NEUTRAL",
+            "POSITIVE"
+        ],
+        "scores": [
+            0.584332287311554,
+            0.34530210494995117,
+            0.07036565989255905
+        ],
+        "verdict": [
+            "NEGATIVE",
+            0.584332287311554
+        ]
+    },
+    {
+        "sequence": "I apologize for the technical issues you faced with our website, and I understand how frustrating long wait times can be. We're working to resolve these issues. Can I assist you with your iPhone 14 purchase now?",
+        "labels": [
+            "NEUTRAL",
+            "POSITIVE",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.41312694549560547,
+            0.29527440667152405,
+            0.2915986478328705
+        ],
+        "verdict": [
+            "NEUTRAL",
+            0.41312694549560547
+        ]
+    },
+    {
+        "sequence": "Fine, I still want the iPhone 14, but you better give me a discount for all this inconvenience!",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.46729108691215515,
+            0.2827899158000946,
+            0.2499190717935562
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.46729108691215515
+        ]
+    },
+    {
+        "sequence": "I completely understand your frustration, and I'm sorry for the inconvenience. We can offer you a 10% discount on your iPhone 14 purchase as a goodwill gesture. Is that acceptable to you?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.5069301128387451,
+            0.280799001455307,
+            0.21227090060710907
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.5069301128387451
+        ]
+    },
+    {
+        "sequence": "It's about time! Yes, I'll take the discount. Can you tell me about the available storage options?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9381003975868225,
+            0.04181508719921112,
+            0.02008448727428913
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9381003975868225
+        ]
+    },
+    {
+        "sequence": "Certainly! The iPhone 14 comes in two storage options: 128GB and 256GB. Which one would you like?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.9437295794487,
+            0.04161177575588226,
+            0.014658646658062935
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.9437295794487
+        ]
+    },
+    {
+        "sequence": "I'll take the 256GB model. What colors do you have?",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.6645365357398987,
+            0.1782219260931015,
+            0.15724152326583862
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6645365357398987
+        ]
+    },
+    {
+        "sequence": "We have Silver, Midnight Green, and Rose Gold. Which color suits your preference?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.49193665385246277,
+            0.28431764245033264,
+            0.22374573349952698
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.49193665385246277
+        ]
+    },
+    {
+        "sequence": "I guess Midnight Green is fine. Now, let's finish this quickly.",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.6383344531059265,
+            0.18083545565605164,
+            0.18083009123802185
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6383344531059265
+        ]
+    },
+    {
+        "sequence": "Of course, I'll process your order promptly. Can you please provide your name and contact information for shipping and billing?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6438939571380615,
+            0.2547135353088379,
+            0.10139253735542297
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6438939571380615
+        ]
+    },
+    {
+        "sequence": "Finally, something is going right. My name is John Smith, and my contact number is 555-555-5555.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.962327241897583,
+            0.029650134965777397,
+            0.008022586815059185
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.962327241897583
+        ]
+    },
+    {
+        "sequence": "Thank you, John. We'll make sure your iPhone 14 is on its way without any further delays. Do you have any specific shipping instructions?",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.8514357209205627,
+            0.10255030542612076,
+            0.04601401835680008
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.8514357209205627
+        ]
+    },
+    {
+        "sequence": "No, just get it to me as soon as possible. I can't wait to get my hands on it!",
+        "labels": [
+            "POSITIVE",
+            "NEGATIVE",
+            "NEUTRAL"
+        ],
+        "scores": [
+            0.4215557277202606,
+            0.3589346706867218,
+            0.219509556889534
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.4215557277202606
+        ]
+    },
+    {
+        "sequence": "Understood, John. We'll expedite the delivery. You'll receive a confirmation email shortly. If you have any more questions or concerns, please don't hesitate to reach out.",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6218127608299255,
+            0.24679307639598846,
+            0.131394162774086
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6218127608299255
+        ]
+    },
+    {
+        "sequence": "You better get it right this time! I'm counting on you!",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6299414038658142,
+            0.20916850864887238,
+            0.16089002788066864
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6299414038658142
+        ]
+    },
+    {
+        "sequence": "We'll do our best, John. Thank you for your patience and for choosing our products. Have a great day!",
+        "labels": [
+            "POSITIVE",
+            "NEUTRAL",
+            "NEGATIVE"
+        ],
+        "scores": [
+            0.6381786465644836,
+            0.23763227462768555,
+            0.12418908625841141
+        ],
+        "verdict": [
+            "POSITIVE",
+            0.6381786465644836
+        ]
+    }
+]
