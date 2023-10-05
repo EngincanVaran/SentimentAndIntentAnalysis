@@ -2,12 +2,14 @@ import json
 import logging
 import os
 from pathlib import Path
-from typing import List, Dict
+from typing import Dict
+from typing import List
 
-from transformers import pipeline, Pipeline
+from transformers import Pipeline
+from transformers import pipeline
 
 
-def load_transcript(transcript_filename) -> List[Dict]:
+def load_transcript(transcript_filename) -> list[dict]:
     TRANSCRIPT_PATH = f"../data/input/{transcript_filename}.json"
     logging.info(f"Loading transcript... {transcript_filename}")
     with open(TRANSCRIPT_PATH) as f:
@@ -40,7 +42,7 @@ def write_results(result, transcript_filename, classification_type) -> None:
         json.dump(result, f, indent=4)
 
 
-def decide_on_verdict(result) -> List[Dict]:
+def decide_on_verdict(result) -> list[dict]:
     for step in result:
         step["verdict"] = [step["labels"][0], step["scores"][0]]
     return result
