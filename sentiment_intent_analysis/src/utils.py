@@ -2,8 +2,6 @@ import json
 import logging
 import os
 from pathlib import Path
-from typing import Dict
-from typing import List
 
 from transformers import Pipeline
 from transformers import pipeline
