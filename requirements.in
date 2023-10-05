@@ -1,0 +1,4 @@
+transformers
+torch
+pre-commit
+pip-tools

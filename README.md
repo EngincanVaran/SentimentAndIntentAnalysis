@@ -31,9 +31,10 @@ Follow these steps to set up and run the project:
    ```sh
    python -m venv venv
    source venv/bin/activate
-   
+
 4. Install the required dependencies:
    ```sh
+   pip-compile requirements.in
    pip install -r requirements.txt
 
 5. Run the code to perform Sentiment Analysis and Intention Prediction using the provided data and model:
@@ -44,5 +45,20 @@ Follow these steps to set up and run the project:
 ## Usage
 To use the system, you can modify the main.py script to adapt it to your specific needs. This script should load the data, model, and configurations and perform Sentiment Analysis and Intention Prediction on the conversation.
 
+## Pre-Commit
+Getting Started
+1. Before using pre-commit in your project, make sure you have it installed. You can install it globally or locally as a development dependency using pip:
+   ```sh
+   pip install pre-commit
+   ```
+2. Once you've configured pre-commit, you can run it before each commit by executing the following command:
+   ```sh
+   pre-commit run --all-files
+   ```
+
+
 ## Acknowledgments
 We would like to acknowledge the contributions of the open-source community and the Hugging Face Transformers library, which has been instrumental in developing this project.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.

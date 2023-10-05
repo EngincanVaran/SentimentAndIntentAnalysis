@@ -4,7 +4,10 @@ import logging
 import os
 from pathlib import Path
 
-from utils import load_transcript, load_model, write_results, decide_on_verdict
+from utils import decide_on_verdict
+from utils import load_model
+from utils import load_transcript
+from utils import write_results
 
 
 def main(args, config):
@@ -45,18 +48,16 @@ if __name__ == "__main__":
     logging.basicConfig(
         level=config.getint("logging", "LOG_LEVEL"),
         format="%(asctime)s [%(levelname)s] %(message)s",
-        handlers=[
-            logging.StreamHandler()
-        ]
+        handlers=[logging.StreamHandler()],
     )
 
     # since we want to run this script with multiple inputs
     # we want to implement an argument parser
     parser = argparse.ArgumentParser(
         description="Sentiment and Intent Analysis Arguments Docstrings!",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    parser.add_argument('--transcript', '-t', default='transcript_0', type=str, help="The filename to analyze in json.")
+    parser.add_argument("--transcript", "-t", default="transcript_0", type=str, help="The filename to analyze in json.")
 
     args = parser.parse_args()
 
