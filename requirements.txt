@@ -4,16 +4,12 @@
 #
 #    pip-compile --no-emit-index-url requirements.in
 #
-build==1.0.3
-    # via pip-tools
 certifi==2023.7.22
     # via requests
 cfgv==3.4.0
     # via pre-commit
 charset-normalizer==3.3.0
     # via requests
-click==8.1.7
-    # via pip-tools
 distlib==0.3.7
     # via virtualenv
 filelock==3.12.4
@@ -48,17 +44,12 @@ numpy==1.26.0
     # via transformers
 packaging==23.2
     # via
-    #   build
     #   huggingface-hub
     #   transformers
-pip-tools==7.3.0
-    # via -r requirements.in
 platformdirs==3.11.0
     # via virtualenv
 pre-commit==3.4.0
     # via -r requirements.in
-pyproject-hooks==1.0.0
-    # via build
 pyyaml==6.0.1
     # via
     #   huggingface-hub
@@ -92,9 +83,6 @@ urllib3==2.0.6
     # via requests
 virtualenv==20.24.5
     # via pre-commit
-wheel==0.41.2
-    # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
-# pip
 # setuptools
