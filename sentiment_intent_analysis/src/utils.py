@@ -20,9 +20,11 @@ def load_model() -> Pipeline:
     path = Path(__file__)
     ROOT_DIR = path.parent.parent.absolute()
     model_path = os.path.join(ROOT_DIR, "resources", model_name)
+    model_bin_path = os.path.join(ROOT_DIR, "resources", model_name, "pytorch_model.bin")
     # check if we are already downloaded the model
     # if so load it, else download from huggingface
-    if os.path.exists(model_path) and os.path.isdir(model_path):
+    if ((os.path.exists(model_path) and os.path.isdir(model_path)) and 
+        (os.path.exists(model_bin_path) and os.path.isfile(model_bin_path))):
         logging.info("Found the model in locally, Loading the model...")
         classifier = pipeline("zero-shot-classification", model_path)
     else:
