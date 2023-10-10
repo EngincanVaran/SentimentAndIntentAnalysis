@@ -32,9 +32,10 @@ Follow these steps to set up and run the project:
    python -m venv venv
    source venv/bin/activate
 
-4. Install the required dependencies:
+4. Install the required dependencies (may need to install pip-tools):
    ```sh
-   pip-compile requirements.in
+   pip install pip-tools
+   pip-compile --no-emit-index-url requirements.in
    pip install -r requirements.txt
 
 5. Run the code to perform Sentiment Analysis and Intention Prediction using the provided data and model:
